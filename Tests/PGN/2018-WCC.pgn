@@ -1,0 +1,89 @@
+[Event "2018 World Chess Championship"]
+[Site "London"]
+[Date "2006.06.30"]
+[Round "15"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[Result "1-0"]
+[ECO "B44"]
+[Annotator "samsh"]
+[PlyCount "91"]
+[EventDate "2006.06.28"]
+[Sourceversiondate "2018.11.28"]
+[WhiteElo ""]
+[BlackElo ""]
+
+1. e4 $1 {[%c_effect e4;square;e4;type;GreatFind;persistent;true] White can choose
+more or less any sensible first move (including 1. e4) in a normal game, or even
+a must-win game. e4, d4, Nf3, c4- all strike me as having similar chances of
+fighting for an edge. But if one specifically needs a draw with White, 1.e4 is
+absolutely the way to do it. Play the most forcing moves $1} 1... c5 2. Nf3 e6 3.
+c4 {A bit of a weird move order. c4 only really works against the Kan, but not
+against the Taimanov} (3. d4 cxd4 4. Nxd4 a6 {Now c4 would make a lot more
+sense. Carlsen played this against Anand in their second match.}) 3... Nc6 4. d4
+{Transposing back to the Taimanov} (4. Nc3 {This would have avoided the option
+Black chose in the game.}) 4... cxd4 5. Nxd4 Bc5 $1 {[%c_effect
+c5;square;c5;type;GreatFind;persistent;true] Definitely the best move under the
+circumstances} (5... Nf6 6. Nc3 {Has long been known to end in sterile equality
+very quickly. This is not normally a problem from Black's point of view, but
+this game is a bit different...} 6... Bb4 7. Nxc6 bxc6 8. Bd3 {The position is
+very dry and very safe for White. Neither side has any good plans at their
+disposal to imbalance the game.}) 6. Nc2 (6. Nb3 {Is a better chance to fight
+for an edge, and White may well be better. But at least Black is keeping some
+tension in the game.}) 6... Nf6 7. Nc3 O-O (7... Qb6 {Black absolutely needed to
+disrupt White's coordination. after something like} 8. Qd2 Ng4 9. Nd1 O-O 10. h3
+Nf6 11. Nc3 {Black is not better, and White can complete his development, but at
+least he doesn't have perfect coordination and a nice space advantage.}) 8. Be3
+{Now White develops easily and even maintains a nice edge due to his extra space
+in the style of the Maroczy bind. My annotations won't be published until the
+game ends, but at this point, I find it very unlikely we will see a fourth
+game.} 8... b6 9. Be2 Bb7 10. O-O Qe7 11. Qd2 Rfd8 12. Rfd1 {White is incredibly
+solid. In such structures the best plan for Black is generall to try to force
+d7-d5 through, but all that does is liquidate the position.} 12... Ne5 13. Bxc5
+bxc5 14. f4 $1 {[%c_effect f4;square;f4;type;GreatFind;persistent;true] White
+takes even more space.} 14... Ng6 15. Qe3 d6 (15... d5 {\"Objectively\" this has
+to be the best move, and Black is almost equalizing. But it chops off all the
+pieces, and this is obviously unacceptable for Caruana.} 16. exd5 exd5 17. Qxe7
+Nxe7 18. cxd5 Nfxd5 19. Nxd5 Nxd5 {I don't think Magnus will lose a position
+like this one very often...}) 16. Rd2 a6 17. Rad1 Qc7 18. b3 {White's play is
+simple and easy. Just keep everything protected and maintain the space
+advantage. Winning the game will not be easy, but his strong play in the first 2
+rapid games earned him the right to sit tight here.} 18... h6 19. g3 Rd7 20. Bf3
+Re8 21. Qf2 Ne7 22. h3 Red8 {Not much is happening. Black is struggling to find
+any kind of active plan.} 23. Bg2 Nc6 24. g4 $1 {[%c_effect
+g4;square;g4;type;GreatFind;persistent;true] This is undoubtedly the best move,
+and Magnus must be given credit for being willing to somewhat open his king in a
+game where a draw clinches the World Championship. White expands his space
+advantage further.} 24... Qa5 25. Na4 Qc7 26. e5 (26. g5 $5 {[%c_effect
+g5;square;g5;type;Interesting;persistent;true] White could have gone directly
+for the king, but one can hardly blame Magnus for looking for simplification and
+instand gratification. Had this been game 1, I doubt he would hesitate to play
+g5. And he'd likely have won.}) 26... dxe5 27. Nxc5 Rxd2 28. Rxd2 Rxd2 29. Qxd2
+Ba8 $1 {[%c_effect a8;square;a8;type;GreatFind;persistent;true]} (29... exf4 30.
+Nxb7 Qxb7 31. Qxf4 {Looks very safe for White.}) 30. fxe5 Qxe5 31. Nd7 {This
+looks like the easiest way to force a draw. All the pieces come off.} 31... Qb2
+(31... Nxd7 32. Qxd7 Qg3 {Almost keeps some fight, but the bishop on a8 is lost
+after} 33. Qc8+) 32. Qd6 Nxd7 33. Qxd7 Qxc2 {Caruana makes the right choice to
+keep different pieces on the board. White's c-pawn is pretty dangerous and the
+bishop is better then the knight in it's abolity to send the pawn through, but
+White's king is open and the knight and queen can be a dangerous attacking pair.
+White is certainly not worse but Caruana has to take any chance he can get to
+imbalance the position at all.} 34. Qe8+ Kh7 35. Qxa8 Qd1+ 36. Kh2 Qd6+ 37. Kh1
+Nd4 38. Qe4+ f5 39. gxf5 exf5 40. Qe3 {The g2 bishop is too strong. Its really
+hard to imagine how White can get mated.} 40... Ne6 41. b4 $1 {[%c_effect
+b4;square;b4;type;GreatFind;persistent;true] Passed pawns must be pushed $1} 41...
+Ng5 {Black clearly wants f4-f3- it's his only winning attempt. The move is
+objectively bad but in an absolute must-win scenario, you gotta do what you
+gotta do.} 42. c5 Qf6 43. c6 {White's c-pawn will decide the game long before
+any attack has a dream of coming through.} 43... Ne6 44. a4 Nc7 45. Qf4 Ne6 46.
+Qd6 $1 {[%c_effect d6;square;d6;type;GreatFind;persistent;true] going for the 3-0
+sweep. Magnus showed why he is one of the best players ever, making one of the
+best players in the world (who even fought him to a 6-6 tie in the classical
+portion) look completely uncompetitive in the rapid playoff. I was happy to see
+him look for complicated positions with the black pieces, and any future
+challengers would be best advised to try to beat him in regulation- his rapid
+play is absurdly powerful. I'd like to thank chess.com for inviting me to
+annotate the games, I did my best to bring the best and most objective analysis
+I could, and I hope I was able to shed some light on the games. Thanks to all
+for reading $1} (46. Qe3 {One wonders if Caruana would have repeated moves here.
+We'll never know because Magnus wanted the whole cake.}) 1-0
